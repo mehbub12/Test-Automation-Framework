@@ -10,7 +10,7 @@ import com.utility.BrowserUtility;
 public class LoginTest {
 
 	public static void main(String[] args) {
-		WebDriver driver=new ChromeDriver();
+		/*WebDriver driver=new ChromeDriver();
 		
 		BrowserUtility browserUtility=new BrowserUtility(driver);
 		browserUtility.goToWebsite("http://www.automationpractice.pl/index.php");
@@ -26,7 +26,7 @@ public class LoginTest {
 		browserUtility.enterText(passwordLocator, "Password");
 		
 		By submitBtnLocator=By.id("SubmitLogin");
-		browserUtility.clickOn(submitBtnLocator);
+		browserUtility.clickOn(submitBtnLocator);*/
 	}
 
 }

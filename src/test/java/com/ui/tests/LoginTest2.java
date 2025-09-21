@@ -14,13 +14,13 @@ import com.utility.BrowserUtility;
 public class LoginTest2 {
 
 	public static void main(String[] args) {
-		WebDriver driver=new ChromeDriver();
+		/*WebDriver driver=new ChromeDriver();
 		
 		HomePage homepage=new HomePage(driver);
 		LoginPage loginPage=homepage.goToLoginPage();
 		loginPage.doLoginWith("mettokauzaugre-5693@yopmail.com", "Password");
 		
-		//File file=new File(System.getProperty("user.dir")+"\\config\\")
+		//File file=new File(System.getProperty("user.dir")+"\\config\\")*/
 	}
 
 }
